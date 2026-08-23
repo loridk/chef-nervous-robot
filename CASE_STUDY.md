@@ -17,6 +17,7 @@ I transformed a tutorial recipe generator into a distinct portfolio project with
 - **Focus:** Accessibility, responsive design, AI integration, privacy, and secure output handling
 - **Status:** Live portfolio demo
 - **Demo:** [loridunford.com/chef-nervous-robot](https://loridunford.com/chef-nervous-robot/)
+- **Build story:** [The Tutorial Was the Easy Part: Building Chef Nervous Robot](https://blog.loridunford.com/the-tutorial-was-the-easy-part-building-chef-nervous-robot/)
 
 ---
 

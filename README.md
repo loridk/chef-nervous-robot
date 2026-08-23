@@ -4,6 +4,8 @@ Chef Nervous Robot is a responsive React application that creates recipe ideas f
 
 **Live demo:** [loridunford.com/chef-nervous-robot](https://loridunford.com/chef-nervous-robot/)
 
+**Build story:** [The Tutorial Was the Easy Part: Building Chef Nervous Robot](https://blog.loridunford.com/the-tutorial-was-the-easy-part-building-chef-nervous-robot/)
+
 ## Project origins
 
 This project began with Scrimba's Chef Claude exercise from its React curriculum. I used that lesson as a foundation, then substantially expanded and rebuilt the application with ingredient removal, exclusions, dietary preferences, provider switching, defensive AI output handling, accessibility improvements, original branding, a responsive visual redesign, and a production deployment strategy.
