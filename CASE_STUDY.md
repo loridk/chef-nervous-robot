@@ -160,9 +160,7 @@ The project also gave me a stronger process for evaluating tutorial code: unders
 
 ### Next steps
 
-The deployed portfolio version will remain focused on the Chef Nervous Robot identity and Puter-powered demonstration. A separate open-source edition is planned with generic Chef Robot branding, configurable AI providers, setup documentation, and multiple optional visual themes.
-
-Keeping the editions separate will allow the reusable project to become flexible without adding unnecessary configuration or branding compromises to the portfolio demo.
+Chef Nervous Robot will remain focused on its distinctive portfolio identity and Puter-powered demonstration. Future work will focus on maintenance, accessibility, security, and compatibility as its dependencies and supporting services evolve.
 
 ---
 

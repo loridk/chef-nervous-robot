@@ -10,7 +10,7 @@ Chef Nervous Robot is a responsive React application that creates recipe ideas f
 
 This project began with Scrimba's Chef Claude exercise from its React curriculum. I used that lesson as a foundation, then substantially expanded and rebuilt the application with ingredient removal, exclusions, dietary preferences, provider switching, defensive AI output handling, accessibility improvements, original branding, a responsive visual redesign, and a production deployment strategy.
 
-This public repository is available for portfolio review and does not currently include an open-source license. A separate, generic Chef Robot edition is planned for reusable open-source distribution.
+This repository is shared for portfolio review. It is not offered as an open-source project and does not grant permission to reuse or redistribute its code or assets.
 
 ## Features
 
@@ -126,4 +126,4 @@ The production build may also report CommonJS-variable warnings originating insi
 
 ## Project status
 
-This repository is the branded portfolio version of Chef Nervous Robot. A separate, provider-configurable open-source edition is planned so the reusable version can evolve without weakening or complicating the deployed portfolio demo.
+Chef Nervous Robot is a completed portfolio project and live demonstration. Future updates will focus on maintenance, accessibility, security, and compatibility with its supporting services.
