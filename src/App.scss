@@ -14,6 +14,7 @@ $muted: #536052;
 $focus: #075ec8;
 
 body {
+  margin: 0;
   background-color: $cream-100;
   background-image: repeating-linear-gradient(
     0deg,
@@ -72,16 +73,6 @@ header {
     gap: clamp(0.65rem, 2vw, 1rem);
   }
 
-  &::after {
-    content: "";
-    position: absolute;
-    right: 0;
-    bottom: 0.45rem;
-    left: 0;
-    height: 2px;
-    background: $mustard-500;
-  }
-
   .site-icon {
     width: clamp(3rem, 8vw, 4.75rem);
     height: auto;
@@ -106,6 +97,7 @@ header {
 }
 
 main {
+  flex: 1;
   position: relative;
   width: min(calc(100% - 1.25rem), 55rem);
   margin: clamp(1rem, 4vw, 3rem) auto;
@@ -529,6 +521,11 @@ main {
   .advice {
     text-align: center;
   }
+}
+
+footer {
+  border-top: 2px solid $mustard-500;
+  text-align: center;
 }
 
 @media (min-width: 36rem) {

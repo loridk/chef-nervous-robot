@@ -9,3 +9,9 @@ body {
   font-family: Inter, sans-serif;
   line-height: 1.5;
 }
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
